@@ -1,0 +1,14 @@
+[
+  {
+    "fieldName": "id",
+    "fieldType": "Long"
+  },
+  {
+    "fieldName": "name",
+    "fieldType": "String"
+  },
+  {
+    "fieldName": "age",
+    "fieldType": "Int"
+  }
+]
