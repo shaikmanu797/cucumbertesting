@@ -1,0 +1,18 @@
+[
+  {
+    "fieldName": "airport_id",
+    "fieldType": "Int"
+  },
+  {
+    "fieldName": "city",
+    "fieldType": "String"
+  },
+  {
+    "fieldName": "state",
+    "fieldType": "String"
+  },
+  {
+    "fieldName": "name",
+    "fieldType": "String"
+  }
+]
